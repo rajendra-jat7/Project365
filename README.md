@@ -13,6 +13,7 @@ This repository contains 365 daily React projects, deployed separately on Vercel
 | 5    | Color Box Generator | [View Here](https://color-box-generator-rj.vercel.app/) |
 | 6    | Calculator | [View Here](https://calculator-react-rj.vercel.app/) |
 | 7    | Text Transformer | [View Here](https://text-transformer-rj.vercel.app/) |
+| 8    | Weather Widget | [View Here](https://weather-widget-rj.vercel.app/) |
 
 📌 **Check out all source codes on GitHub:**  
 👉 [https://github.com/rajendra-jat7/Project365](https://github.com/rajendra-jat7/Project365)
