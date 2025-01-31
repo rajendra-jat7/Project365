@@ -1,0 +1,27 @@
+input {
+    border-style: 2px solid white;
+    height: 35px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  button {
+    background-color: rgb(45, 178, 45);
+    border-style: none;
+    height: 35px;
+    width: 70px;
+    color: white;
+    margin-left: 5px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .search-bar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
